@@ -271,11 +271,11 @@ La seconde commande permet d'exécuter d'autres commandes sur Visual Studio Code
 
 ```text
 1
+2
+3
+4
 5
 6
-3
-2
-4
 ```
 
 ## 🔎 Pour aller plus loin
